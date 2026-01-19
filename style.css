@@ -101,6 +101,12 @@
   text-align: center;
 }
 
+.hero-card p {
+  max-width: 700px;
+  line-height: 1.6;
+  color: #cbd5f5;
+}
+
 .btn-voltar {
   display: inline-flex;
   align-items: center;
